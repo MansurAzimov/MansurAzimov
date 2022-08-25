@@ -30,8 +30,9 @@
 
 
 
-## На связи в Telegram 
+## Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/MansurAzimov)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://instagram.com/mans.fremen)
 
 <!--
 **MansurAzimov/MansurAzimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
