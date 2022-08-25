@@ -18,13 +18,6 @@
   </a>
 </div> 
 
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="600" height="300"/>
-</div>
-
-
 ##  Немного обо мне.
 
 ИНТЕРЕСЫ:
@@ -33,7 +26,7 @@
 <p> 💸 Интересуюсь финансовыми рынками и мировой экономикой. </p>
 <p> 🖥 Разработка программного обеспечения.</p>
 
-## 💻 Мой стек технологий и инструментов
+### :hammer_and_wrench: Мой стек технологий и инструментов
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Django-007ACC?style=for-the-badge&logo=django&logoColor=white"  style="margin-bottom: 4px;" height="30px">
