@@ -40,10 +40,11 @@
 
 
 
-### My Stats :
+### Статистика :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MansurAzimov&theme=dark&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MansurAzimov/MansurAzimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
