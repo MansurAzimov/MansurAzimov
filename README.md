@@ -3,8 +3,6 @@
 ## My name is Mansur, I'm a backend developer.
 </br>
 
----
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200"/>
 </div>
@@ -20,13 +18,15 @@
   </a>
 </div> 
 
+---
+
 ##  Немного обо мне.
 
 ИНТЕРЕСЫ:
 <p> 💻 Улучшаю свои навыки кодирования, чтобы стать полноценным Senior разработчиком </p>
 <p> 💸 Интересуюсь финансовыми рынками и мировой экономикой. </p>
 <p> 🖥 Разработка программного обеспечения.</p>
-
+---
 ### :hammer_and_wrench: Мой стек технологий и инструментов
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/Postgresql-%231572B6.svg?style=for-the-badge&logo=Postgresql&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
-
+---
 
 ### Статистика :
 
