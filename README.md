@@ -41,9 +41,9 @@
 
 
 
-## Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/MansurAzimov)
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://instagram.com/mans.fremen)
+### My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MansurAzimov&theme=dark&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **MansurAzimov/MansurAzimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
