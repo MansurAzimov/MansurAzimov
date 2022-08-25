@@ -44,7 +44,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MansurAzimov&theme=dark&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansurAzimov&layout=compact"><p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansurAzimov&layout=compact&theme=vision-friendly-dark"><p>
 
 <!--
 **MansurAzimov/MansurAzimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
