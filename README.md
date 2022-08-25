@@ -1,6 +1,7 @@
 <p><img src="https://visitcount.itsvg.in/api?id=MansurAzimov&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
 
 ### My name is Mansur, I'm a backend developer.
+  
 </br>
 
 <div id="header" align="center">
@@ -20,9 +21,9 @@
 
 ---
 
-###  Немного о себе:
+##  Немного о себе:
 
-# ИНТЕРЕСЫ:
+### ИНТЕРЕСЫ:
 
 <p> 💻 Улучшаю свои навыки кодирования, чтобы стать полноценным Senior разработчиком </p>
 <p> 💸 Интересуюсь финансовыми рынками и мировой экономикой. </p>
@@ -30,7 +31,7 @@
 
 ---
 
-### :hammer_and_wrench: Мой стек технологий и инструментов
+## :hammer_and_wrench: Мой стек технологий и инструментов
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Django-007ACC?style=for-the-badge&logo=django&logoColor=white"  style="margin-bottom: 4px;" height="30px">
@@ -45,7 +46,7 @@
 
 ---
 
-### Статистика :
+## Статистика :
 
 <p><img src="https://metrics.lecoq.io/MansurAzimov"><p>
 
