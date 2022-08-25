@@ -28,7 +28,7 @@
 
 ### :hammer_and_wrench: Мой стек технологий и инструментов
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Django-007ACC?style=for-the-badge&logo=django&logoColor=white"  style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"title="postgresql"  alt="postgresql" width="40" height="40"/>
+<img src="https://img.shields.io/badge/Postgresql-%231572B6.svg?style=for-the-badge&logo=Postgresql&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
 
