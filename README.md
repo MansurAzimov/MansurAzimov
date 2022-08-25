@@ -51,7 +51,6 @@
 
 ## Статистика :
 
-<p><img src="https://metrics.lecoq.io/MansurAzimov"><p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MansurAzimov&theme=dark&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
