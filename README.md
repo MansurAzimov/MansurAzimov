@@ -1,6 +1,18 @@
 ## My name is Mansur, I'm a backend developer.
 </br>
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)" width="100"/>
+</div>
+
+## 💫 Немного обо мне.
+
+ИНТЕРЕСЫ:
+<p> 🤩 Улучшаю свои навыки кодирования, чтобы стать полноценным Senior разработчиком 🤩 </p>
+<p> 💻 Постоянно изучаю новые технологии и улучшаю свои навыки </p>
+<p> 💸 Интересуюсь финансовыми рынками и мировой экономикой. </p>
+<p> 🖥 Разработка программного обеспечения.</p>
+
 ## 💻 Мой стек технологий и инструментов
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
@@ -12,6 +24,8 @@
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/MySQL-F05032?style=for-the-badge&logo=mysql&logoColor=white"style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Postgresql-%231572B6.svg?style=for-the-badge&logo=Postgresql&logoColor=white"style="margin-bottom: 4px;" height="30px">
 </p>
 
 
