@@ -4,8 +4,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200"/>
 </div>
-
-## 💫 Немного обо мне.
+<div id="badges">
+  ![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/MansurAzimov)
+  ![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://instagram.com/mans.fremen)
+ </div>
+ 
+##  Немного обо мне.
 
 ИНТЕРЕСЫ:
 <p> 🤩 Улучшаю свои навыки кодирования, чтобы стать полноценным Senior разработчиком 🤩 </p>
