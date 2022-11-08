@@ -1,4 +1,4 @@
-<p><img src="https://visitcount.itsvg.in/api?id=MansurAzimov&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+<p><img src="[![](https://visitcount.itsvg.in/api?id=MansurAzimov&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)"><p>
 
 ### My name is Mansur, I'm a python backend developer.
   
